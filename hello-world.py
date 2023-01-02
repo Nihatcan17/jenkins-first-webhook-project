@@ -1,1 +1,1 @@
-print('Hello World for Nihat Jenkins Job')
+print('Hello World')
